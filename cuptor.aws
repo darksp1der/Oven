@@ -1,0 +1,12 @@
+[Version]
+Version=6.3
+[Designs]
+cuptor=.\cuptor\cuptor.adf
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=
+[Expand]
+cuptor=1

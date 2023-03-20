@@ -1,0 +1,64 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=cuptor
+
+[Library]
+cuptor=.\cuptor.lib
+
+[$LibMap$]
+cuptor=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+SYNTH_TOOL=<none>
+IMPL_TOOL=<none>
+FAMILY=
+FLOWTOOLS=ONLY_IMPL
+EnableCC=0
+CCDIRECTORY=coverage
+PROFDIRECTORY=profiler
+CCHierarchy=0
+ProfHierarchy=0
+CCAllHierarchy=0
+ProfAllHierarchy=0
+
+[IMPLEMENTATION]
+UCF=
+
+[LocalVhdlSets]
+ReorderOnFirstRebuild=1
+EnableVHDL87Key=1
+NetlistCompilation=0
+ElaborationAfterCompilation=0
+MaxErrorsKey=100
+CompileWithDebug=1
+OptimizationLevel=2
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=cuptor|structural|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Files]
+/CNT5.vhd=-1
+/CNT30.vhd=-1
+/INCALZITOR.vhd=-1
+/maincode.vhd=-1
+/Waveform Editor 2.awf=-1
+
+[Files.Data]
+.\src\CNT5.vhd=VHDL Source Code
+.\src\CNT30.vhd=VHDL Source Code
+.\src\INCALZITOR.vhd=VHDL Source Code
+.\src\maincode.vhd=VHDL Source Code
+.\src\Waveform Editor 2.awf=Waveform File
+

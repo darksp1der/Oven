@@ -1,0 +1,565 @@
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Error: COMP96_0122: INCALZITOR.vhd : (13, 1): Symbol "ts" has already been declared in this region.
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT5.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Compile Architecture "count" of Entity "CNT5"
+# Error: COMP96_0019: CNT5.vhd : (30, 8): Keyword "if" expected.
+# Error: COMP96_0015: CNT5.vhd : (30, 8): ';' expected.
+# Error: COMP96_0019: CNT5.vhd : (32, 4): Keyword "end" expected.
+# Error: COMP96_0019: CNT5.vhd : (35, 4): Keyword "end" expected.
+# Error: COMP96_0016: CNT5.vhd : (35, 10): Design unit declaration expected.
+# Compile failure 5 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT5.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Entity `CNT5' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT5"
+# Error: COMP96_0143: CNT5.vhd : (20, 6): Object "ifo" may not be written
+# Error: COMP96_0143: CNT5.vhd : (27, 7): Object "ifo" may not be written
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.1 [s]
+acom $DSN/src/CNT5.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Error: COMP96_0015: CNT5.vhd : (7, 23): ':' expected.
+# Compile Architecture "count" of Entity "CNT5"
+# Error: COMP96_0143: CNT5.vhd : (20, 6): Object "ifo" may not be written
+# Error: COMP96_0143: CNT5.vhd : (27, 7): Object "ifo" may not be written
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT5.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Compile Architecture "count" of Entity "CNT5"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/cnt5.vhd $DSN/src/cnt30.vhd $DSN/src/incalzitor.vhd $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Entity `CNT5' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT5"
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Entity `CNT30' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT30"
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Warning: ELAB1_0026: maincode.vhd : (55, 0): There is no default binding for component "CNT5".(Port "rst" is not on the entity).
+# Warning: ELAB1_0026: maincode.vhd : (61, 0): There is no default binding for component "INCALZITOR".(Port "rst" is not on the entity).
+# Compile success 0 Errors 2 Warnings  Analysis time :  0.2 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Compile Architecture "count" of Entity "CNT30"
+# Error: COMP96_0019: CNT30.vhd : (24, 14): Keyword "if" expected.
+# Error: COMP96_0015: CNT30.vhd : (24, 14): ';' expected.
+# Error: COMP96_0019: CNT30.vhd : (26, 11): Keyword "process" expected.
+# Error: COMP96_0019: CNT30.vhd : (26, 16): Keyword "end" expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Entity `CNT30' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT30"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Compile Architecture "count" of Entity "CNT30"
+# Error: COMP96_0019: CNT30.vhd : (26, 14): Keyword "if" expected.
+# Error: COMP96_0015: CNT30.vhd : (26, 14): ';' expected.
+# Error: COMP96_0019: CNT30.vhd : (28, 11): Keyword "process" expected.
+# Error: COMP96_0019: CNT30.vhd : (28, 16): Keyword "end" expected.
+# Compile failure 4 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Entity `CNT30' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT30"
+# Error: ELAB1_0008: CNT30.vhd : (16, 8): Cannot read output : "c".
+# Compile failure 1 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Compile Architecture "count" of Entity "CNT30"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Compile Architecture "count" of Entity "CNT30"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT5.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Compile Architecture "count" of Entity "CNT5"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Warning: ELAB1_0026: maincode.vhd : (57, 0): There is no default binding for component "CNT5".(Port "tmp" is not on the entity).
+# Error: COMP96_0207: maincode.vhd : (57, 0): No actual specified for local port "ifo1".
+# Error: COMP96_0078: maincode.vhd : (61, 24): Unknown identifier "st".
+# Error: COMP96_0133: maincode.vhd : (61, 24): Cannot find object declaration.
+# Error: COMP96_0112: maincode.vhd : (61, 24): "st" does not match the formal name.
+# Error: COMP96_0207: maincode.vhd : (60, 0): No actual specified for local port "c1".
+# Error: COMP96_0207: maincode.vhd : (63, 0): No actual specified for local port "start".
+# Compile failure 6 Errors 1 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Error: COMP96_0413: maincode.vhd : (58, 45): Actual of mode "in" can not be assigned to formal "h" of mode "out"
+# Error: COMP96_0207: maincode.vhd : (57, 0): No actual specified for local port "clk".
+# Error: COMP96_0207: maincode.vhd : (60, 0): No actual specified for local port "clk".
+# Compile failure 3 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Compile Architecture "structural" of Entity "cuptor"
+# Error: COMP96_0207: maincode.vhd : (57, 0): No actual specified for local port "clk".
+# Error: COMP96_0207: maincode.vhd : (60, 0): No actual specified for local port "clk".
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# Design: Design cuptor already active.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  cuptor structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2424 kB (elbread=1070 elab2=305 kernel=1049 sdf=0)
+# 20:39, Monday, 20 June 2022
+# Simulation has been initialized
+# Selected Top-Level: cuptor (structural)
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+run 100 ns
+# KERNEL: stopped at time: 600 ns
+run 100 ns
+# KERNEL: stopped at time: 700 ns
+run 100 ns
+# KERNEL: stopped at time: 800 ns
+run 100 ns
+# KERNEL: stopped at time: 900 ns
+run 100 ns
+# KERNEL: stopped at time: 1 us
+run 100 ns
+# KERNEL: stopped at time: 1100 ns
+run 100 ns
+# KERNEL: stopped at time: 1200 ns
+run 100 ns
+# KERNEL: stopped at time: 1300 ns
+run 100 ns
+# KERNEL: stopped at time: 1400 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Error: COMP96_0078: maincode.vhd : (52, 25): Unknown identifier "ifo1".
+# Error: COMP96_0133: maincode.vhd : (52, 25): Cannot find object declaration.
+# Error: COMP96_0104: maincode.vhd : (52, 25): Undefined type of expression.
+# Error: COMP96_0077: maincode.vhd : (52, 25): Assignment target incompatible with right side. Expected type "std_ulogic".
+# Error: COMP96_0078: maincode.vhd : (53, 23): Unknown identifier "c1".
+# Error: COMP96_0133: maincode.vhd : (53, 23): Cannot find object declaration.
+# Error: COMP96_0104: maincode.vhd : (53, 23): Undefined type of expression.
+# Error: COMP96_0077: maincode.vhd : (53, 23): Assignment target incompatible with right side. Expected type "std_ulogic".
+# Compile failure 8 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+asim -advdataflow  cuptor structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2424 kB (elbread=1070 elab2=305 kernel=1049 sdf=0)
+# 21:03, Monday, 20 June 2022
+# Simulation has been initialized
+# Selected Top-Level: cuptor (structural)
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+run 100 ns
+# KERNEL: stopped at time: 600 ns
+run 100 ns
+# KERNEL: stopped at time: 700 ns
+run 100 ns
+# KERNEL: stopped at time: 800 ns
+run 100 ns
+# KERNEL: stopped at time: 900 ns
+run 100 ns
+# KERNEL: stopped at time: 1 us
+run 100 ns
+# KERNEL: stopped at time: 1100 ns
+run 100 ns
+# KERNEL: stopped at time: 1200 ns
+run 100 ns
+# KERNEL: stopped at time: 1300 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+acom $DSN/src/CNT5.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Compile Architecture "count" of Entity "CNT5"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Compile Architecture "count" of Entity "CNT30"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Error: COMP96_0412: maincode.vhd : (57, 66): Actual of mode "out" can not be assigned to formal "c" of mode "inout"
+# Error: COMP96_0412: maincode.vhd : (60, 47): Actual of mode "out" can not be assigned to formal "ifo" of mode "inout"
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Compile Architecture "structural" of Entity "cuptor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+asim -advdataflow  cuptor structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2424 kB (elbread=1070 elab2=305 kernel=1049 sdf=0)
+# 21:36, Monday, 20 June 2022
+# Simulation has been initialized
+# Selected Top-Level: cuptor (structural)
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+asim -advdataflow  cuptor structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2424 kB (elbread=1070 elab2=305 kernel=1049 sdf=0)
+# 21:37, Monday, 20 June 2022
+# Simulation has been initialized
+# Selected Top-Level: cuptor (structural)
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+run 100 ns
+# KERNEL: stopped at time: 600 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+asim -advdataflow  cuptor structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2424 kB (elbread=1070 elab2=305 kernel=1049 sdf=0)
+# 21:38, Monday, 20 June 2022
+# Simulation has been initialized
+# Selected Top-Level: cuptor (structural)
+run 100 ns
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+acom $DSN/src/CNT5.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Entity `CNT5' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT5"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+asim -advdataflow  cuptor structural
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+acom $DSN/src/INCALZITOR.vhd $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.3 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 2424 kB (elbread=1070 elab2=305 kernel=1049 sdf=0)
+# 21:56, Monday, 20 June 2022
+# Simulation has been initialized
+# Selected Top-Level: cuptor (structural)
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 50 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: stopped at time: 100 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 150 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: stopped at time: 200 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 250 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 250 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: stopped at time: 300 ns
+run 100 ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 350 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 350 ns,  Iteration: 0,  Instance: /TEMP,  Process: line__15.
+# KERNEL: stopped at time: 400 ns
+run 100 ns
+# KERNEL: stopped at time: 500 ns
+endsim
+# All when statements cleared.
+# Simulation has been stopped
+acom $DSN/src/INCALZITOR.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Entity `CNT30' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT30"
+# Error: COMP96_0078: CNT30.vhd : (15, 19): Unknown identifier "c1".
+# Error: COMP96_0348: CNT30.vhd : (15, 14): Name on sensitivity list must denote a signal.
+# Compile failure 2 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/CNT30.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Entity `CNT30' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT30"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.0 [s]
+acom $DSN/src/cnt5.vhd $DSN/src/cnt30.vhd $DSN/src/incalzitor.vhd $DSN/src/maincode.vhd
+# Compile...
+# File: c:\My_Designs\cuptor\cuptor\src\CNT5.vhd
+# Compile Entity "CNT5"
+# Entity `CNT5' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT5"
+# File: c:\My_Designs\cuptor\cuptor\src\CNT30.vhd
+# Compile Entity "CNT30"
+# Entity `CNT30' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "CNT30"
+# File: c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd
+# Compile Entity "INCALZITOR"
+# Entity `INCALZITOR' has been skipped - no difference detected.
+# Compile Architecture "count" of Entity "INCALZITOR"
+# File: c:\My_Designs\cuptor\cuptor\src\maincode.vhd
+# Compile Entity "cuptor"
+# Entity `cuptor' has been skipped - no difference detected.
+# Compile Architecture "structural" of Entity "cuptor"
+# Compile success 0 Errors 0 Warnings  Analysis time :  0.2 [s]

@@ -1,0 +1,13 @@
+805
+~E 1 "./src/CNT20.vhd" 6 counter
+~A 1 "./src/CNT20.vhd" 11 count
+~E 1 "./src/CNT30.vhd" 6 cnt30
+~A 1 "./src/CNT30.vhd" 12 count
+~E 1 "./src/CNT20.vhd" 6 cnt20
+~A 1 "./src/CNT20.vhd" 11 count
+~E 1 "./src/CNT5.vhd" 6 cnt5
+~A 1 "./src/CNT5.vhd" 14 count
+~E 1 "./src/maincode.vhd" 6 cuptor
+~A 1 "./src/maincode.vhd" 17 structural
+~E 1 "./src/INCALZITOR.vhd" 6 incalzitor
+~A 1 "./src/INCALZITOR.vhd" 11 count

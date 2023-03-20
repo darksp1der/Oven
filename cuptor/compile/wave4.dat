@@ -1,0 +1,10 @@
+$WAVE4TIMED
+$RESOLUTION 1000
+I 1 "e#9#std_logicc9 UX01ZWLH-"
+$IN 1 1 "NR5/clk"
+$IN 5 1 "NR5/tmp"
+$OUT 9 1 "NR30/ifo"
+$OUT +4 1 5 0 c
+$OUT +4 1 "TEMP/ph"
+$IN +4 1 "NR30/st"
+$ENDWAVE

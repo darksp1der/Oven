@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\cuptor\library.cfg"  -j "c:\My_Designs\cuptor\cuptor\projlib.cfg"  -d "c:\My_Designs\cuptor\cuptor\compile\"  -work cuptor -dbg -e 100 "c:\My_Designs\cuptor\cuptor\src\CNT5.vhd"  "c:\My_Designs\cuptor\cuptor\src\CNT30.vhd"  "c:\My_Designs\cuptor\cuptor\src\INCALZITOR.vhd"  "c:\My_Designs\cuptor\cuptor\src\maincode.vhd" 
